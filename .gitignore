@@ -5,3 +5,4 @@ __pycache__/
 ll_env/
 venv/
 *.log
+.venv/
